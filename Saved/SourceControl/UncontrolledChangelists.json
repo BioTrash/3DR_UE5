@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/home/rufus/Documents/Unreal Projects/Migrated3DR/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+			]
+		}
+	]
+}
