@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/home/rufus/Documents/Unreal Projects/3DR_UE5/Content/Maps/Nattscen.umap",
+				"/home/rufus/Documents/Unreal Projects/3DR_UE5/Content/Particles/Mist.uasset",
 				"/home/rufus/Documents/Unreal Projects/Migrated3DR/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
 			]
 		}
